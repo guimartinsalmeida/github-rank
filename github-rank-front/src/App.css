@@ -1,0 +1,7 @@
+/* App-specific styles */
+#root {
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Remove old styles that are no longer needed */
